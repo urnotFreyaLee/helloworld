@@ -1,0 +1,4 @@
+public void static(String[] args)
+{
+system.out.println("helloworld!");
+}
